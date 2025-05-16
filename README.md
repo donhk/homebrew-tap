@@ -1,5 +1,5 @@
 # homebrew-tap
-Homebrew tap for rushstr
+Homebrew tap for [rushstr](https://github.com/donhk/rushstr)
 
 ```zsh
 # one time
