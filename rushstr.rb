@@ -1,9 +1,9 @@
 class Rushstr < Formula
   desc "Interactive command history searcher"
   homepage "https://github.com/donhk/rushstr"
-  url "https://github.com/donhk/rushstr/releases/download/v1.3.5/rushstr-v1.3.5-aarch64-macos.tar.xz"
-  sha256 "cca93ebba0f728065854879558d52dad9f7a133fe98bcc05a16f2b203189dc14"
-  version "1.3.5"
+  url "https://github.com/donhk/rushstr/releases/download/v1.4.0/rushstr-v1.4.0-aarch64-macos.tar.xz"
+  sha256 "1adee468f9bea668703eaa414720d07ab2b03d5beda0efb9b7365fffc602dab0"
+  version "1.4.0"
 
   def install
     bin.install "rushstr"
